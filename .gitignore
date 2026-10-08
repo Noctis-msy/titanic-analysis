@@ -1,0 +1,10 @@
+# PyCharm / IDE 配置
+.idea/
+
+# 与本项目无关的练习文件
+easy watch.ipynb
+
+# Python 缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
